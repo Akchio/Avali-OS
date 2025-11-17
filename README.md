@@ -12,4 +12,4 @@ Avali-OS is an experimental operating system based on Arch Linux. Please note th
 
 ---
 
-Thank you for your interest in Avali-OS!
+Thank you for your understanding!
