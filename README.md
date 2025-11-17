@@ -2,7 +2,7 @@
 
 Welcome to the official Avali-OS repository!
 
-Avali-OS is an experimental operating system based on Arch Linux. Please note that Avali-OS is currently in a very early development stage (pre-alpha), and is intended for testing, educational, or development purposes only.
+Avali-OS is an experimental operating system based on Arch Linux, themed around the Avali species and its fandom. Please note that Avali-OS is currently in a very early development stage (pre-alpha), and is intended for testing, educational, or development purposes only.
 
 ---
 
