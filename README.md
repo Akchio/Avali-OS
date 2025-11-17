@@ -1,12 +1,15 @@
 # Avali-OS
-The official Avali-OS REPO
 
+Welcome to the official Avali-OS repository!
 
+Avali-OS is an experimental operating system based on Arch Linux. Please note that Avali-OS is currently in a very early development stage (pre-alpha), and is intended for testing, educational, or development purposes only.
 
+---
 
+## Disclaimer
 
+**Avali-OS is provided "as is", without warranty of any kind. By installing or using Avali-OS, you acknowledge and agree that the author(s) are not responsible or liable for any data loss, system damage, or any other issues that may arise. You assume full responsibility for any and all consequences of using this software. Use at your own risk.**
 
+---
 
-This operating system is based on (arch-linux) and it is in PRE-PRE-PRE-PRE-PRE-ALPHA!
-Im not responsible of DATA-LOSS , SYSTEM-HARM and EVRYTHING, You installed it you're responsible!
-This OS comes with ABSOLUTLEY NO WARANTY!
+Thank you for your interest in Avali-OS!
