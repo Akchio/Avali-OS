@@ -1,4 +1,4 @@
-# Avali-OS
+# Avali-OS COMING SOON!
 
 Welcome to the official Avali-OS repository!
 
