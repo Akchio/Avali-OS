@@ -1,4 +1,5 @@
-# Avali-OS COMING SOON!
+# Avali-OS OUT NOW!
+USE CLONEZILLA TO FLASH DISC IMMAGE
 
 Welcome to the official Avali-OS repository!
 
