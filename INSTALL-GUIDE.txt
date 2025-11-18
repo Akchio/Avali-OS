@@ -1,5 +1,7 @@
 First install clonezilla iso and flash on primary usb https://clonezilla.org/downloads/download.php?branch=stable or https://drive.google.com/file/d/1B5u5uIn3JE3IQKKwAVBLQ9lU09g2pxxE/view?usp=sharing
 
 second prepare secondary exfat usb with disk image folder in it     https://drive.google.com/drive/folders/1wySb05Dd-L7AMHMUOYGSx6M62qImCRRo?usp=sharing
+then put all the files in a folder named "AVALI-OS-img"
+
 
 third follow clonezilla guide    https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/02_Restore_disk_image
