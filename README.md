@@ -3,7 +3,7 @@ USE CLONEZILLA TO FLASH DISK IMAGE
 
 Welcome to the official Avali-OS repository!
 
-THE DISK IMAGE FILE IS ON GOOGLE DRIVE BEACOUSE IS TOO BIG FOR GITHUB 25MB LIMIT!
+THE DISK IMAGE FILE IS ON GOOGLE DRIVE BECAUSE IS TOO BIG FOR GITHUB 25MB LIMIT!
 
 Avali-OS is an experimental operating system based on Arch Linux, themed around the Avali species and its fandom. Please note that Avali-OS is currently in a very early development stage (pre-alpha), and is intended for testing, educational, or development purposes only.
 
