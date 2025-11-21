@@ -1,6 +1,6 @@
 ## ⚠️ Notice: Avali-OS Rework & Migration Underway! ⚠️
 
-Avali-OS is currently being completely reworked, recoded, and migrated to KDE Plasma. The original (base) version is now deprecated. During this process, users should expect a "radio blackout" from the developer with limited updates or announcements until the new version is ready. Stay tuned for future news!
+Avali-OS is currently being completely reworked, recoded, and migrated to KDE Plasma. The original (base) version is now deprecated. During this process, users should expect a "radio blackout" from the developer with limited updates or announcements until the new version is ready. 
 
 ---
 
