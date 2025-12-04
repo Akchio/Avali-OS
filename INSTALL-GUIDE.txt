@@ -4,7 +4,7 @@ second prepare secondary exfat usb then install disk files     https://drive.goo
 put all the files in a folder named "AVALI-OS-img" and place the folder in the exfat usb with the image files in it
 
 
-third follow clonezilla guide    https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/02_Restore_disk_image
+third follow clonezilla guide    https://clonezilla.org/show-live-doc-content.php?topic=clonezilla-live/doc/02_Restore_disk_image   <---- this is not deprecated
 
 
 
