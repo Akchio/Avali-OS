@@ -7,7 +7,7 @@
 
 Welcome to the official Avali-OS repository!
 
-The disk image file is hosted on Torrents due to its size exceeding GitHub's 25MB limit.
+The disk image file is hosted on Torrents due to its size exceeding GitHub's 25MB limit and 2GB release limit.
 
 **Important Security Notice:**  
 The default username is **avali** and the password is **1234**. It is essential to change these credentials immediately upon first use. Please also change the password for the root user, which is currently set to **1234**.
