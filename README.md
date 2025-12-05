@@ -2,6 +2,7 @@
 ---
 
 ## Avali-OS Now Available!
+## Added a new homepage at http://akchio.go.ro/ feel free to check it out!
 
 ### Flash Disk Image Using Clonezilla
 
